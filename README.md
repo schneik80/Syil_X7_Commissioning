@@ -23,6 +23,8 @@
   - Attache Cavers
   - Check For Anything Loose
 - Remove Rust Inhibitor
+- Machine status Lamp
+- Remove forklift Shelve
 
 ### Machine Connections
 
@@ -30,9 +32,11 @@
   - US Transformer
   - Wiring
 - Air
+- Ways Lubricant
 - Coolant Pump
 - Wash Down Hose
 - Air Blast Hose
+- Hand Jog Control
 - Cat5 6 Network
 
 ### First Power On

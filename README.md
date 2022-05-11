@@ -1,6 +1,6 @@
 # Syil (2022) x7 Commissioning
 
-![header_image](./images/412CAE75-D977-4331-9C89-99EE4E9307B7.jpg412CAE75-D977-4331-9C89-99EE4E9307B7.jpg)
+![header_image](./images/412CAE75-D977-4331-9C89-99EE4E9307B7.jpg)
 
 ## Commissioning
 

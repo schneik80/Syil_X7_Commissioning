@@ -28,7 +28,9 @@
 ## Post Processing
 
 - Mastercam
-- [Fusion 360](https://cam.autodesk.com/hsmposts?p=syil_syntec)
+- Fusion
+    - [Official](https://cam.autodesk.com/hsmposts?p=syil_syntec)
+    - [Unofficial](https://github.com/derek1ee/fusion-syil-22ma) by @derek1ee
 - NX
 - Bobcam
 - Gibscam
@@ -39,7 +41,13 @@
 ## Control Resources
 
 - Manuals
+    - [Operating manual](/files/syntec/22MA_Operating_Manual.pdf)
+    - [Programming manual](/files/syntec/22MA_Programming_Manual.pdf)
+    - [Parameter manual](/files/syntec/22MA_Parameter_Manual.pdf)
+    - [Marco variables manual](/files/syntec/22MA_Marco_Variables_Manual.pdf)
+    - [Marco development manual](/files/syntec/22MA_Macro_Development_Manual.pdf)
 - Virtual Control
 - Passwords
+    - The default password is `520`.
 - Networking
 - Macros and Sample Programs

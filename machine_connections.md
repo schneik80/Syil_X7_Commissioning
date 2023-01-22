@@ -58,7 +58,7 @@ Voltage | Distance | Coper | ALuminum
 480V | 300 ft | 4 AWG | 2 AWG
 
 Cable lengths will vary depending on the distance from your machine to the power source/wall disconnect.
-You will need aproxamately 4 to 6 feet to run from the transformer to machine electronics enclosure.
+You will need approximately 4 to 6 feet to run from the transformer to machine electronics enclosure.
 
 #### 380v Transformer
 

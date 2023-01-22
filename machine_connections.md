@@ -1,12 +1,22 @@
 # Machine Connections
 
-## 3 Phase Power
+## Power
 
-### US Transformer
+### 3 Phase Power
 
-### Wiring
+#### 380v Transformer
+
+#### Wiring
+
+### 2 Phase Power
 
 ## Air
+
+### Compressor Minimum Specs
+
+### Drw Air
+
+### Required componets to hook up to machine
 
 ## Ways Lubricant
 

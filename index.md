@@ -9,6 +9,7 @@
 - Site Preparations
 - Required Tools
 - Parts To Order Before Delivery
+- FAQ
 
 ### [Machine Delivery](machine_delivery.md)
 
